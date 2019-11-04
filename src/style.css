@@ -1,0 +1,16 @@
+#logo-nav{
+    width: 6vw;
+}
+
+#imagem-parallax{
+    background-image: url('images/praia-turquia.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+    background-position: center;
+    height: 80vh;
+}
+
+#pesq-viagen{
+    background-color: rgba(0,110,178,0.75);
+}
