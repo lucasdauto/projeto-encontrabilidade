@@ -1,0 +1,8 @@
+User-agent:*
+Disallow: /admin/
+
+User-agent: *
+Allow: /
+
+Sitemap: http://www.oppfly.com/sitemap.xml
+

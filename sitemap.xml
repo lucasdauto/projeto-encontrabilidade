@@ -1,0 +1,62 @@
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+<url>
+  <loc>http://www.oppfly.com.br/</loc>
+  <changefreq>weekly</changefreq>
+  <priority>0.9</priority>
+</url>
+<url>
+  <loc>http://www.oppfly.com.br/quem-somos</loc>
+  <changefreq>weekly</changefreq>
+  <priority>0.9</priority>
+</url>
+<url>
+  <loc>http://www.oppfly.com.br/politica-privacidade</loc>
+  <changefreq>weekly</changefreq>
+  <priority>0.9</priority>
+</url>
+<url>
+  <loc>http://www.oppfly.com.br/busca</loc>
+  <changefreq>weekly</changefreq>
+  <priority>0.9</priority>
+</url>
+<url>
+  <loc>http://www.oppfly.com.br/politica-seguranca</loc>
+  <changefreq>weekly</changefreq>
+  <priority>0.9</priority>
+</url>
+<url>
+  <loc>http://www.oppfly.com.br/termos-e-condicoes-de-uso</loc>
+  <changefreq>weekly</changefreq>
+  <priority>0.9</priority>
+</url>
+<url>
+  <loc>http://www.oppfly.com.br/login</loc>
+  <changefreq>weekly</changefreq>
+  <priority>0.9</priority>
+</url>
+<url>
+  <loc>http://www.oppfly.com.br/cadastro</loc>
+  <changefreq>weekly</changefreq>
+  <priority>0.9</priority>
+</url>
+<url>
+  <loc>http://www.oppfly.com.br/promocoes</loc>
+  <changefreq>weekly</changefreq>
+  <priority>0.5</priority>
+</url>
+<url>
+  <loc>http://www.oppfly.com.br/aereas</loc>
+  <changefreq>weekly</changefreq>
+  <priority>0.5</priority>
+</url>
+<url>
+  <loc>http://www.oppfly.com.br/onibus</loc>
+  <changefreq>weekly</changefreq>
+  <priority>0.5</priority>
+</url>
+<url>
+  <loc>http://www.oppfly.com.br/em-alta</loc>
+  <changefreq>weekly</changefreq>
+  <priority>0.5</priority>
+</url>
+</urlset>
