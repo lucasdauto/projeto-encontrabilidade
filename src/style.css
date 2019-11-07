@@ -7,7 +7,7 @@ ul{
 }
 
 #imagem-parallax{
-    background-image: url('images/praia-turquia.jpg');
+    background-image: url("images/praia-turquia.jpg");
     background-repeat: no-repeat;
     background-size: cover;
     background-attachment: fixed;
@@ -21,4 +21,8 @@ ul{
 
 #faixa{
     height: 160px;
+}
+
+.texto-peq{
+    font-size: 8.5pt;
 }
